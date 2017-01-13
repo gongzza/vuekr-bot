@@ -23,7 +23,7 @@
     "hubot": "2.x"
   },
   "engines": {
-    "node": "4.4.x"
+    "node": "6.9.x"
   },
   "repository": {
     "type": "git",
