@@ -2,6 +2,7 @@
   "name": "vuekr-bot",
   "version": "0.1.0",
   "author": "Leop0ld <l3opold7@gmail.com>",
+  "license": "MIT",
   "description": "A simple robot for vuejs-korea slack",
   "dependencies": {
     "hubot": "^2.19.0",
@@ -19,7 +20,7 @@
     "hubot-slack": "^4.3.1"
   },
   "engines": {
-    "node": "6.9.x"
+    "node": "4.4.x"
   },
   "repository": {
     "type": "git",
