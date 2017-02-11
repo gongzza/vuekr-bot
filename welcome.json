@@ -13,7 +13,7 @@
     "#random - 사실상 사용하지 않는 채널"
   ],
   "recommendSites": [
-    "*추천 사이트*",
+    "*시작하기*",
     "Vue.js 한국어 - http://kr.vuejs.org/",
     "Vue.js 한국어 사용자 모임 - https://vuejs-kr.github.io/",
     "영어 강의 동영상 - https://laracasts.com/series/learn-vue-2-step-by-step/",
@@ -21,6 +21,6 @@
     "Vue.js 개발환경 - https://vuejs-kr.github.io/update/2016/12/20/starting-vue/",
     "vue-router 한국어 - https://router.vuejs.org/kr/",
     "vuex 한국어 - https://vuex.vuejs.org/kr/",
-    "vue-loader 한국어 - https://vue-loader.vuejs.org/kr/",
+    "vue-loader 한국어 - https://vue-loader.vuejs.org/kr/"
   ]
 }
