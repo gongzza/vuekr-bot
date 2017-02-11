@@ -1,0 +1,25 @@
+{
+  "greeting": "님! 안녕하세요 :)\nVue.js Korea Slack 에 들어오신 것을 환영합니다! :+1:",
+  "introChannels": [
+    "*채널설명*",
+    "#bot_playground - 봇 테스트 채널",
+    "#general - 잡담/질문/드립 모든게 허용되는 채널",
+    "#awesome - 유용한 링크를 소개하는 채널",
+    "#jobs - 구인구직 관련 채널",
+    "#updates - Vue.js 한국어 사용자 git 변경 내역을 알려주는 채널",
+    "#question - 질문 채널",
+    "#news - Vue.js 관련 소식을 보여주는 채널",
+    "#semantic-ui - semantic-ui를 잘 사용하고 싶은 사용자 채널",
+    "#random - 사실상 사용하지 않는 채널"
+  ],
+  "recommendSites": [
+    "*추천 사이트*",
+    "Vue.js 한국어 - http://kr.vuejs.org/",
+    "Vue.js 한국어 사용자 모임 - https://vuejs-kr.github.io/",
+    "영어 강의 동영상 - https://laracasts.com/series/learn-vue-2-step-by-step/",
+    "Vue.js 프로젝트 시작을 위한 CLI입니다. - https://github.com/vuejs-kr/vue-cli/",
+    "Vue.js 개발환경 - https://vuejs-kr.github.io/update/2016/12/20/starting-vue/",
+    "vue-router 한국어 - https://router.vuejs.org/kr/",
+    "vuex 한국어 - https://vuex.vuejs.org/kr/"
+  ]
+}
