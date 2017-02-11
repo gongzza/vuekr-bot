@@ -20,6 +20,7 @@
     "Vue.js 프로젝트 시작을 위한 CLI입니다. - https://github.com/vuejs-kr/vue-cli/",
     "Vue.js 개발환경 - https://vuejs-kr.github.io/update/2016/12/20/starting-vue/",
     "vue-router 한국어 - https://router.vuejs.org/kr/",
-    "vuex 한국어 - https://vuex.vuejs.org/kr/"
+    "vuex 한국어 - https://vuex.vuejs.org/kr/",
+    "vue-loader 한국어 - https://vue-loader.vuejs.org/kr/",
   ]
 }
