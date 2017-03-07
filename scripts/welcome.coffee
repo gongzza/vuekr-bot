@@ -14,11 +14,11 @@ module.exports = (robot) ->
   robot.enter (res) ->
     user = res.message.user
 
-    # greeting
-    robot.messageRoom user.room, "#{user.name} #{welcome.greeting}"
-
-    # intro channels and recommend sites
     channel = robot.adapter.client.rtm.dataStore.getChannelGroupOrDMById(user.room)
     if channel.name is 'general'
+      # greeting
+      robot.messageRoom user.room, "#{user.name} #{welcome.greeting}"
+
+      # intro channels and recommend sites
       robot.messageRoom user.id, introChannels
       robot.messageRoom user.id, recommendSites
