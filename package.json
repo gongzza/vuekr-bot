@@ -5,7 +5,7 @@
   "license": "MIT",
   "description": "A simple robot for vuejs-korea slack",
   "dependencies": {
-    "hubot": "^2.19.0",
+    "hubot": "^3.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-help": "^0.2.0",
     "hubot-rules": "^0.1.1",
